@@ -5,3 +5,4 @@ Test repo for learning git.
 * Learn git
 * Buy a dog
 * Plant a tree
+"New line 1" 
